@@ -9,7 +9,7 @@
 
 ## 📅 Learning Progress
 
-### Day 1: Foundation & Environment Setup (填写今天的日期)
-- [x] Created this GitHub Learning Journal
-- [ ] Set up Burp Suite and learned basic interception
-- [ ] Studied the core concept of SQL Injection
+### Day 1: Foundation & Environment Setup (2025 10.23)
+- [✓] Created this GitHub Learning Journal
+- [✓] Set up Burp Suite and learned basic interception
+- [√] Studied the core concept of SQL Injection
